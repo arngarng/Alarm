@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version_error">Android系統請升級至4.0以上</string>
+    <string name="net_error">網路連線未開啟,無法更新假日資訊</string>
+    <string name="timeout_error">連線逾時,無法下載假日資訊</string>
+</resources>

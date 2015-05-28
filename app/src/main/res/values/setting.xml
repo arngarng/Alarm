@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url">https://docs.google.com/document/d/1_Jy5WGS58mOx-hkoMxcfkh308sIdoIMLNlW1Um1xjkg/export?format=txt</string>
+    <integer name="sdk_version">14</integer>
+    <integer name="connet_timeout">30</integer>
+
+</resources>

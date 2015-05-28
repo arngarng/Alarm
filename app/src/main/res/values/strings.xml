@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LeRonAlarm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="watting">請稍候</string>
+    <string name="downloading">取得假日資料中...</string>
+    <string name="confirm">確認</string>
+</resources>
